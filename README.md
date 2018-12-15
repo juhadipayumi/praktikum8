@@ -8,10 +8,10 @@
 3. Membandingkan nilai variable //output minimum dan maksimum
 
 **Flowchart Program**
-![Flowchart](https://github.com/raihan11/Praktikum8/blob/master/Latihan1/Flowchart1.png)
+![Flowchart](https://github.com/JUHADIPAYUMI/Praktikum8/blob/master/Latihan1/Flowchart1.png)
 
 **Screenshoot**
-![Screenshoot](https://github.com/raihan11/Praktikum8/blob/master/Latihan1/Screenshoot1.png)
+![Screenshoot](https://github.com/JUHADIPAYUMI/Praktikum8/blob/master/Latihan1/Screenshoot1.png)
 
 **code program lengkap**
 ```c++
@@ -58,10 +58,10 @@ return 0;
 3. Membandingkan nilai variable HitungStatistik run;
 
 **Flowchart Program**
-![Flowchart](https://github.com/raihan11/Praktikum8/blob/master/Latihan2/Flowchart2.png)
+![Flowchart](https://github.com/JUHADIPAYUMI/Praktikum8/blob/master/Latihan2/Flowchart2.png)
 
 **Screnshoot**
-![Screnshoot](https://github.com/raihan11/Praktikum8/blob/master/Latihan2/Screenshoot2.png)
+![Screnshoot](https://github.com/JUHADIPAYUMI/Praktikum8/blob/master/Latihan2/Screenshoot2.png)
 
 **code program lengkap**
 ```c++
@@ -153,7 +153,7 @@ return 0;
 
 
 **Flowchart Program**
-![Flowchart](https://github.com/raihan11/Praktikum8/blob/master/Latihan3/Flowchart3.png)
+![Flowchart](https://github.com/JUHADIPAYUMI/Praktikum8/blob/master/Latihan3/Flowchart3.png)
 **Screenshoot**
 ![Screenshoot](https://github.com/raihan11/Praktikum8/blob/master/Latihan3/Screenshoot3.png)
 **code program lengkap**
@@ -272,9 +272,9 @@ return 0;
 
 
 **Flowchart Program**
-![Flowchart](https://github.com/raihan11/Praktikum8/blob/master/Latihan4/Flowchart4.png)
+![Flowchart](https://github.com/JUHADIPAYUMI/Praktikum8/blob/master/Latihan4/Flowchart4.png)
 **Screenshoot**
-![Screenshoot](https://github.com/raihan11/Praktikum8/blob/master/Latihan4/Screenshoot4.png)
+![Screenshoot](https://github.com/JUHADIPAYUMI/Praktikum8/blob/master/Latihan4/Screenshoot4.png)
 
 **code program lengkap**
 ```c++
@@ -325,5 +325,8 @@ system("PAUSE");
 return EXIT_SUCCESS;
 }
 ```
+# praktikum8
+# praktikum8
+# praktikum8
 # praktikum8
 # praktikum8
